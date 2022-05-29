@@ -1,0 +1,51 @@
+.banner{
+	width: 100%;
+	background: #F3F3F3;
+	padding-top: 100px;
+}
+.banner>div{
+	width: 950px;
+	margin: 0px auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.banner .content{
+	width: 950px;
+	background: white;
+	margin: 0px auto;
+}
+.banner .content form{
+	width: 55%;
+	margin: 0px auto;
+	padding-top: 20px;
+}
+.banner .content form label{
+	width: 100px;
+	color: gray;
+	text-align: right;
+	vertical-align: middle;
+	display: inline-block;
+}
+.banner .content form input{
+	width: 250px;
+	height: 30px;
+	margin: 10px;
+}
+.banner .content form textarea{
+	margin: 10px;
+}
+.banner .content form button{
+	width: 120px;
+	height: 35px;
+	background: black;
+	border: none;
+	color: white;
+	font-size: 16px;
+	margin-bottom: 40px;
+	margin-left: 115px;
+}
+.banner .content form button:hover{
+	background: #DAA520;
+	transition: all 1s;
+}

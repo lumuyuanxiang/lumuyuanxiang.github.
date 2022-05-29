@@ -1,0 +1,48 @@
+[
+{
+	"imgs":"../image/td1.jpg",
+	"name":"草莓奶昔 ￥12"	
+},
+{
+	"imgs":"../image/td3.jpg",
+	"name":"爆汁冰淇淋 ￥12"	
+},
+{
+	"imgs":"../image/td8.jpg",
+	"name":"热香饼甜点 ￥16"	
+},{
+	"imgs":"../image/td2.jpg",
+	"name":"芒果奶昔 ￥8"	
+},
+{
+	"imgs":"../image/td4.jpg",
+	"name":"香蕉西米露 ￥7"	
+},
+{
+	"imgs":"../image/td5.jpg",
+	"name":"坚果蛋糕甜点 ￥18"	
+},
+{
+	"imgs":"../image/td6.jpg",
+	"name":"蓝莓蛋糕 ￥28"	
+},
+{
+	"imgs":"../image/td7.jpg",
+	"name":"芒果西米露 ￥12"	
+},
+{
+	"imgs":"../image/td9.jpg",
+	"name":"草莓三拼球 ￥12"	
+},{
+	"imgs":"../image/td10.jpg",
+	"name":"威化饼干冰淇淋 ￥10"	
+},
+{
+	"imgs":"../image/td11.jpg",
+	"name":"马卡龙 ￥10"	
+},
+{
+	"imgs":"../image/td12.jpg",
+	"name":"樱桃雪糕 ￥22"	
+}
+]

@@ -1,0 +1,65 @@
+{
+  "id": "2228668",
+  "name": "美味提供",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1048455",
+      "name": "酒水",
+      "font_class": "jiushui",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "4964673",
+      "name": "披萨",
+      "font_class": "pisa",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5170191",
+      "name": "汤",
+      "font_class": "tang",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "5180002",
+      "name": "色拉",
+      "font_class": "sela",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "5220905",
+      "name": "意面",
+      "font_class": "tubiao-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5316059",
+      "name": "甜点",
+      "font_class": "tiandian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "10268966",
+      "name": "主食",
+      "font_class": "zhushi",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "11372725",
+      "name": "小食",
+      "font_class": "xiaoshi",
+      "unicode": "e8be",
+      "unicode_decimal": 59582
+    }
+  ]
+}
